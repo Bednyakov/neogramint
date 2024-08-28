@@ -99,6 +99,6 @@ MongoDB запускается вместе с контейнером, и мож
 
 - Удаление Docker образа:
   ```bash
-  docker rmi neogramint_mongodb
+  docker rmi neogramint_app
   ```
 
