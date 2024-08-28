@@ -57,4 +57,4 @@ def main() -> None:
         logger.info(f"Пользователи: {len(users)} добавлены в коллекцию 'users'")
         logger.info(f"Группы: {len(groups)} добавлены в коллекцию 'groups'")
         logger.info(f"Время выполнения: {timestamp}")
-        logger.info(f"Изображения сохранены в photos/{dirname}")
+        logger.info(f"Изображения сохранены в {dirname}")
